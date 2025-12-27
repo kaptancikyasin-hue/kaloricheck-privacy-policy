@@ -17,4 +17,4 @@ Toplanan veriler güvenli şekilde saklanır ve yetkisiz erişime karşı korunu
 
 ## İletişim
 Sorularınız için:
-📧 yourmail@gmail.com
+📧 kaptancikyasin@gmail.com
